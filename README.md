@@ -1,1 +1,2 @@
 # Premier-League-Web-Scraper
+This repo evidences the beginning of a project that aims to, over time, produce a dataset that allows us to see betting odds over time to provide information on the performance of the 'big 3' teams: Liverpool FC, Chelsea FC and Manchester City FC. This is to allow us to perform future time series analyses on betting odds and predicted performance, vs actual performance.
